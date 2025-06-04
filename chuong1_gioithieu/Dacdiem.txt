@@ -1,0 +1,26 @@
+Đặc điểm:
+1.Sự trừu tưởng hoá:
+	- Mức bên ngoài - View level: Ai quan tâm? => Người dùng cuối
+	- Mức luận lý - Logical level: Ai quan tâm? => Lập trình viên
+	- Mức vật lý - Physical level: Ai quan tâm? => Nhà quản trị CSDL
+================================
+2. Lược đồ CSDL: bao gồm toàn bộ mô tả CSDL.
+Một thể hiện của CSDL: toàn bộ dữ liệu lưu trữ trong CSDL tại một thời điểm nhất định.
+	- LĐ ngoài:
+	- LĐ khái niệm:
+	- LĐ vật lý:
+================================
+3. Sự độc lập DL
+Sự độc lập dữ liệu: là khả năng thay đổi lược đồ mà không làm ảnh hưởng đến chương trình ứng dụng.
++ Độc lập dữ liệu vật lý: khả năng thay đổi lược đồ vật lý không ảnh hưởng đến lược đồ khái niệm - cấu trúc. 
+=> giúp cải thiện
++ Độc lập dữ liệu khái niệm - luận lý - logical:
+================================
+4. Mô hình CSDL- 5
+- Mô hình mạng:
+- Mô hình phân cấp: *dạng cây
+- Mô hình quan hệ:
+- Mô hình thực thể liên kết - thực thể kết hợp:
+- Mô hình OOP:
+
++ 4

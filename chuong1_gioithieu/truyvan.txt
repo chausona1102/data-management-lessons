@@ -1,0 +1,13 @@
+Truy vấn
+1. DDL: thay đổi cấu trúc của bảng
+2. DML: thay đổi hình thức trong CSDL
+3. TCL: giao dịch
+- COMMIT
+- SAVEPOINT
+- ROLBACK
+
+4. DQL: truy vấn thông tin
+- SELECT
+5. DCL: cấp quyền truy cập
+- Grant
+- Revoice

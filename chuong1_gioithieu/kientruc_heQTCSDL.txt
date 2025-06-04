@@ -1,0 +1,10 @@
+1. Bộ xử lý truy vấn - Query Processor:
+- Trình biên dịch DML:
+- Trình tiền biên dịch DML nhúng:
+- Trình tối ưu hóa truy vấn:
+- Trình thông dịch DDL:
+2. Bộ quản lý lưu trữ - Storage Manager:
+- Quản lý bộ đệm: Buffer manager
+- Trình quản lí tệp: File manager
+- Trình quản lí giao dịch: Transaction Manager
+- Trình quản lí ủy quyền và toàn vẹn: Authorization and integrity manage

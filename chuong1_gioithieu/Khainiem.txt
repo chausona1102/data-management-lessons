@@ -1,0 +1,14 @@
+Dữ liệu - Data: là lượng thông tin chưa được xử lý, là đầu vào của hệ thống. Dữ liệu không phụ thuộc vào thông tin
+Thông tin - information: là data đã được xử lý, là đầu ra của hệ thống. Thông tin phụ thuộc vào dữ liệu vào.	
+CSDL - Database:
+	- Tập hợp các dữ liệu có cấu trúc, có tổ chức liên quan với nhau. 
+	- Được luw trữ trên ác thiết bị nhớ.
+	- Phục vụ nhu cầu khai thác thông tin:
+		+ Nhiều người
+		+ Nhiều mục đích
+Hệ QT CSDL - Database Management Database:
+	- Là các ứng dụng phần mềm để quản lý Cơ sở dữ liệu.
+		+ Truy xuất
+		+ Cập nhật - chỉnh sửa - xóa
+		+ Lưu trữ
+Hệ CSDL - Database System: là bao quát tổng của CSDL, Hệ QT CSDL, con người và chương trình ứng dụng khai thác CSDL.

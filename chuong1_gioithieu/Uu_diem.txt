@@ -1,0 +1,12 @@
+Ưu diểm Hệ QTCSDL <=> Nhược diểm truyền thông
+1. Ưu điểm:
+	- Độc lập dữ liệu - chương trình
+	- Thuận tiện cho việc dùng chung dữ liệu
+	- Giảm thiểu dư thừa dữ liệu
+	- Tăng hiệu suất phát triển bảo trì ứng dụng.
+	- Nâng cao tính nhất quán của dữ liệu
+2. Nhược điểm:
+	-
+	- Hạn chế dùng chung dữ liệu.
+	-
+	-
